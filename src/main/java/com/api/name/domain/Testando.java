@@ -5,7 +5,7 @@ import lombok.*;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "TESTANDOO")
+@Table(name = "TESTANDOOO")
 @SequenceGenerator(name = "TST_SQ", sequenceName = "TST_SQ", allocationSize = 1)
 @Data
 public class Testando {
